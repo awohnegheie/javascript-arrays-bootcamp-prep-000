@@ -5,4 +5,4 @@ var grilledCheeseIngredients = [
   'butter',
   'tomato',
   'garlic'
-]
+];
