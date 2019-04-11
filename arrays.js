@@ -1,9 +1,3 @@
-var chocolateBars = [
-'snickers',
-'hundred grand',
-'kitkat',
-'skittles',
-];
-
-var addElementToBeginningOfArray = ["cat", "dog"];
-addElementToBeginningOfArray.push("cat");
+var myArray = [1, 2, 3]
+ 
+myArray[5] = 5
